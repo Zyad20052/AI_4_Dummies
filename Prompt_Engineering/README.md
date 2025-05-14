@@ -80,3 +80,5 @@ prompt example:
 ```
 
 See [Best Practice](https://github.com/Gl00ria/AI_4_Dummies/blob/main/Prompt_Engineering/best_practice.md) for more details and examples
+
+- [Troubleshooting Guide](https://github.com/Gl00ria/AI_4_Dummies/blob/main/Prompt_Engineering/troubleshooting_guide.md)

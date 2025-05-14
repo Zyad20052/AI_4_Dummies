@@ -11,3 +11,5 @@ So, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
 # Topics:
 
 - [Prompt Enginnering](https://github.com/Gl00ria/AI_4_Dummies/tree/main/Prompt_Engineering)
+- [Prompt Enginnering > Best Practice](https://github.com/Gl00ria/AI_4_Dummies/blob/main/Prompt_Engineering/best_practice.md)
+- [Prompt Enginnering > Troubleshooting Guide](https://github.com/Gl00ria/AI_4_Dummies/blob/main/Prompt_Engineering/troubleshooting_guide.md)

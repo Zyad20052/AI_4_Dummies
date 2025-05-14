@@ -10,4 +10,4 @@ So, following the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
 
 # Topics:
 
-- [Prompt Enginnering](https://github.com/Gl00ria/ai_journey/tree/main/Prompt_Engineering)
+- [Prompt Enginnering](https://github.com/Gl00ria/AI_4_Dummies/tree/main/Prompt_Engineering)

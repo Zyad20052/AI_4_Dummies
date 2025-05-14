@@ -79,4 +79,4 @@ prompt example:
     you are a travel guide, tell me a fact about the city:{ city }
 ```
 
-See [Best Practice](https://github.com/Gl00ria/ai_journey/blob/main/Prompt_Engineering/best_practice.md) for more details and examples
+See [Best Practice](https://github.com/Gl00ria/AI_4_Dummies/blob/main/Prompt_Engineering/best_practice.md) for more details and examples
